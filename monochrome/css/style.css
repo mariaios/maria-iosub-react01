@@ -545,6 +545,14 @@ imaginea. Imi strica alinierea si nu am reusit sa o remediez, asa ca am apelat
   color: #740878;
 }
 
+.product-tile-controls .product-control {
+  margin: 5px;
+  padding: 0px;
+  border: none;
+  background-color: transparent;
+  font-size: 28px;
+}
+
 /* nu am vazut deloc hover in design. sterg daca nu e in regula :D
 daca erau si mi-au scapat mie, again, remediez
 */
@@ -645,6 +653,14 @@ aside img {
 .footer-sign-up-newsletter button {
   max-width: 100px;
   margin-left: 0;
+}
+
+.footer-sign-up-newsletter .message {
+  margin: 10px 0;
+}
+
+.footer-sign-up-newsletter .submitted-message {
+  margin-bottom: 20px;
 }
 
 .footer-nav-style nav li {
